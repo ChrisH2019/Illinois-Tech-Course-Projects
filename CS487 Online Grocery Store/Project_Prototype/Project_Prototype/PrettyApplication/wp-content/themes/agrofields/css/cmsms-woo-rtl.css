@@ -1,0 +1,103 @@
+.product .preloader img {left: auto;right: 0;}
+.cmsms_star_rating .cmsms_star {margin-right: 2px;float: right;}
+.cmsms_star_rating .cmsms_star:first-child {margin-right: 0;}
+.cmsms_star_rating .cmsms_star:before {left: 0;right: 0;}
+.cmsms_star_rating .cmsms_star_color_wrap {left: auto;right: 0;}
+.comment-form-rating .stars > span:before, .comment-form-rating .stars > span a:before {text-align: center;left: auto;right: 0;}
+.comment-form-rating .stars > span a {left: auto;right: 0;}
+.onsale, .out-of-stock {text-align: center;left: 15px;right: auto;}
+#shipping_method input[type="checkbox"], #ship-to-different-address input[type="checkbox"], .payment_methods input[type="checkbox"], #shipping_method input[type="radio"], #ship-to-different-address input[type="radio"], .payment_methods input[type="radio"] {left: auto;right: 0;float: right;}
+#shipping_method input[type="checkbox"] + label, #ship-to-different-address input[type="checkbox"] + label, .payment_methods input[type="checkbox"] + label, #shipping_method input[type="radio"] + label, #ship-to-different-address input[type="radio"] + label, .payment_methods input[type="radio"] + label {padding-right: 25px;float: right;}
+#shipping_method input[type="checkbox"] + label:before, #ship-to-different-address input[type="checkbox"] + label:before, .payment_methods input[type="checkbox"] + label:before, #shipping_method input[type="radio"] + label:before, #ship-to-different-address input[type="radio"] + label:before, .payment_methods input[type="radio"] + label:before {left: auto;right: 0;}
+#shipping_method input[type="radio"] + label:after, #ship-to-different-address input[type="radio"] + label:after, .payment_methods input[type="radio"] + label:after {left: auto;right: 4px;}
+#shipping_method input[type="checkbox"] + label:after, #ship-to-different-address input[type="checkbox"] + label:after, .payment_methods input[type="checkbox"] + label:after {left: auto;right: 0;}
+.woocommerce-error .button, .woocommerce-message .button, .woocommerce-info .button {margin-left: 30px;}
+.buttons_added {float: right;}
+.buttons_added .minus, .buttons_added .plus, .buttons_added .text {text-align: center;float: right;}
+.col2-set > * {float: right;}
+.cmsms_woo_wrap_result .woocommerce-result-count {float: left;}
+.cmsms_woo_wrap_result .woocommerce-ordering {float: right;}
+.cmsms_products .product {float: right;}
+.cmsms_products .product .product_outer .product_inner .cmsms_product_header, .cmsms_products .product .product_outer .product_inner .cmsms_product_info, .cmsms_products .product .product_outer .product_inner .cmsms_product_footer {text-align: center;}
+.cmsms_products .product .product_outer .product_inner .cmsms_product_info .price del {margin-left: 5px;}
+.cmsms_products .product .product_outer .product_inner .cmsms_product_footer > a {text-align: center;}
+.cmsms_products .product .product_outer .product_inner .cmsms_product_footer > a.cmsms_add_to_cart_button + .cmsms_details_button, .cmsms_products .product .product_outer .product_inner .cmsms_product_footer > a.added_to_cart + .cmsms_details_button {margin-right: 4%;}
+.cmsms_products .product .product_outer .product_inner .cmsms_product_footer > a.cmsms_add_to_cart_button.loading:before {text-align: center;left: 0;right: 0;}
+.cmsms_single_product .cmsms_product_left_column {float: right;}
+.cmsms_single_product .cmsms_product_right_column {padding-left: 0;padding-right: 40px;float: left;}
+.cmsms_product_right_column .quantity {float: right;}
+.cmsms_single_product .cmsms_product_right_column .price del {margin-left: 10px;}
+.cmsms_single_product .cmsms_product_right_column .cart .variations td {padding-left: 15px;padding-right: 0;}
+.cmsms_single_product .cmsms_product_right_column .cart .variations td select {margin-left: 15px;margin-right: 0;}
+.cmsms_single_product .cmsms_product_right_column .cart .buttons_added {margin-left: 10px;margin-right: 0;}
+.cmsms_single_product .cmsms_woo_tabs #reviews #comments .cmsms_star_rating {float: left;}
+.cmsms_single_product .cmsms_woo_tabs #reviews #comments > h2 {padding-left: 15px;}
+.cmsms_single_product .cmsms_woo_tabs #reviews #comments .commentlist .comment .comment_container .avatar {margin-left: 30px;margin-right: 0;float: right;}
+.cmsms_single_product .cmsms_woo_tabs #reviews #comments .commentlist .comment .comment_container .comment-text .cmsms_star_rating {float: left;}
+.cmsms_single_product .cmsms_woo_tabs #reviews #comments .commentlist .comment .comment_container .comment-text .meta {padding-left: 15px;padding-right: 0;}
+.shop_table th, .shop_table td {padding-left: 5px;padding-right: 25px;text-align: right;}
+.shop_table td.product-remove .remove {text-indent: -1px;}
+.shipping_method + label, .input-checkbox + label, .input-radio + label {padding: 0 25px 0 0 !important;}
+.shop_table td.actions {text-align: left;}
+.shop_table td.actions .coupon {float: right;}
+.shop_table td.actions .button {margin-right: 10px;}
+.cart-collaterals > * {float: right;}
+.cart-collaterals .cross-sells {float: none;}
+.cart_totals table tr th, .cart_totals table tr td {text-align: right;}
+.cart_totals table tr td {text-align: left;}
+.cart_totals table tr.shipping #shipping_method input[type="checkbox"], .cart_totals table tr.shipping #shipping_method input[type="radio"] {left: 0;right: auto;float: left;}
+.cart_totals table tr.shipping #shipping_method input[type="checkbox"] + label, .cart_totals table tr.shipping #shipping_method input[type="radio"] + label {padding-left: 25px;padding-right: 0;float: left;}
+.cart_totals table tr.shipping #shipping_method input[type="checkbox"] + label:before, .cart_totals table tr.shipping #shipping_method input[type="radio"] + label:before {left: 0;right: auto;}
+.cart_totals table tr.shipping #shipping_method input[type="checkbox"] + label:after, .cart_totals table tr.shipping #shipping_method input[type="radio"] + label:after {left: 4px;right: auto;}
+.shipping_calculator .shipping-calculator-form .form-row {float: right;}
+.shipping_calculator .shipping-calculator-form .form-row:first-child {float: none;}
+.checkout_coupon .form-row {float: right;}
+.checkout .woocommerce-billing-fields > * {float: none;}
+.checkout .woocommerce-billing-fields .create-account input {margin-left: 10px;margin-right: 0;}
+.checkout .woocommerce-billing-fields #billing_first_name_field, .checkout .woocommerce-billing-fields #billing_last_name_field, .checkout .woocommerce-billing-fields #billing_state_field, .checkout .woocommerce-billing-fields #billing_postcode_field, .checkout .woocommerce-billing-fields #billing_email_field, .checkout .woocommerce-billing-fields #billing_phone_field {float: right;}
+.checkout .woocommerce-shipping-fields .shipping_address > * {float: none;}
+.checkout .woocommerce-shipping-fields .shipping_address #shipping_first_name_field, .checkout .woocommerce-shipping-fields .shipping_address #shipping_last_name_field, .checkout .woocommerce-shipping-fields .shipping_address #shipping_state_field, .checkout .woocommerce-shipping-fields .shipping_address #shipping_postcode_field {float: right;}
+.checkout #order_review .shop_table th, .checkout #order_review .shop_table td {border-right-width: 1px;border-right-style: solid;}
+.checkout #order_review .shop_table th:first-child, .checkout #order_review .shop_table td:first-child {border-right-width: 0;border-right-style: solid;}
+.checkout #order_review #payment .payment_methods label {float: none;}
+.checkout #order_review #payment .payment_methods .payment_box:before, .checkout #order_review #payment .payment_methods .payment_box:after {left: auto;right: 25px;}
+.checkout #order_review #payment .payment_methods .payment_box:after {left: auto;right: 27px;}
+.checkout #order_review #payment .place-order .terms {padding-left: 0;padding-right: 20px;float: left;}
+ul.order_details {border-left-width: 0;border-right-width: ;border-left-style: solid;border-right-style: ;}
+ul.order_details li {border-left-width: 1px;border-left-style: solid;float: right;}
+.shop_table.order_details tr th, .shop_table.order_details tr td {border-right-width: 1px;border-right-style: solid;}
+.shop_table.order_details tr th:first-child, .shop_table.order_details tr td:first-child {border-right-width: 0;border-right-style: solid;}
+.customer_details dt, .customer_details dd {float: right;}
+.customer_details dt {padding-left: 20px;}
+.cmsms_dynamic_cart {float: left;}
+.cmsms_dynamic_cart .cmsms_dynamic_cart_button {margin-left: 8px;}
+.cmsms_dynamic_cart .cmsms_dynamic_cart_button:before {left: 0;right: 0;}
+.cmsms_dynamic_cart .cmsms_dynamic_cart_button:after {left: auto;right: 0;}
+.cmsms_dynamic_cart .widget_shopping_cart_content {right: auto;left: 8px;}
+.cmsms_dynamic_cart .widget_shopping_cart_content:before, .cmsms_dynamic_cart .widget_shopping_cart_content:after {right: auto;left: 6px;}
+.cmsms_dynamic_cart .widget_shopping_cart_content .cart_list li a {float: none;}
+.cmsms_dynamic_cart .widget_shopping_cart_content .cart_list li img {margin-left: 20px;margin-right: 0;float: right;}
+.cmsms_dynamic_cart .widget_shopping_cart_content .total strong {margin-left: 5px;}
+.cmsms_dynamic_cart .widget_shopping_cart_content .buttons .button {float: right;}
+.cmsms_added_product_info {right: auto;left: 10px;}
+.cmsms_added_product_info:before, .cmsms_added_product_info:after {right: auto;left: 6px;}
+.cmsms_added_product_info .cmsms_added_product_info_img {float: left;}
+.cmsms_added_product_info .cmsms_added_product_info_text {padding-left: 15px;padding-right: 0;float: right;}
+.widget_product_search form > div label {left: 0;right: auto;}
+.widget_product_search form > div label:before {left: 0;right: 0;}
+.widget_product_search form > div input[type="text"] {padding-left: 40px;padding-right: 9px;}
+.widget_product_search form > div input[type="submit"] {left: 0;right: auto;}
+.widget_shopping_cart .widget_shopping_cart_content .cart_list li a {float: none;}
+.widget_shopping_cart .widget_shopping_cart_content .cart_list li img {margin-left: 15px;float: right;}
+.widget_shopping_cart .widget_shopping_cart_content .total strong {margin-left: 5px;}
+.widget_shopping_cart .widget_shopping_cart_content .buttons .button {float: right;}
+.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-handle {margin-right: -1px;}
+.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-handle:last-child {margin-right: -12px;}
+.widget_price_filter .price_slider_wrapper .price_slider_amount .button {float: left;}
+.widget_price_filter .price_slider_wrapper .price_slider_amount .price_label {padding-left: 15px;padding-right: 0;}
+.product_list_widget li img {margin-left: 15px;margin-right: 0;float: right;}
+.product_list_widget li del {margin-left: 5px;}
+.cmsms_products_shortcode .cmsms_products .product, .cmsms_selected_products_shortcode .cmsms_products .product {float: right;}
+.cmsms_products_shortcode .columns-1 .cmsms_products .product, .cmsms_selected_products_shortcode .columns-1 .cmsms_products .product {float: none;}
+.quantity {float: right;}
+.cart_list li .remove {right: 0;left: auto;}

@@ -1,0 +1,37 @@
+{% extends "users/base.html" %}
+
+{% block content %}
+
+<h2 style="text-align: center;">
+    Complete Foods: The Finest Natural and Organic Groceries!
+</h2>
+
+<a href="{% url 'users:index' %}">Add More Products</a>
+
+<form method="post" action="{% url 'users:checkout' %}">
+    {% csrf_token %}
+    <h2>Review Your Order</h2>
+
+    {% for product in products %}
+    <ul>
+      <h3> {{ product.name }} </h3>
+      <li> Price: ${{ product.price }} </li>
+      <li> Quantity: {{ product.quantity}} </li>
+    </ul>
+    {% endfor %}
+
+    <h1>Order total: ${{ total }}</h1>
+    <hr>
+
+    <h2>Contact and Billing Information</h2>
+
+    {{form.as_p}}
+    
+    <p>
+      <button name="submit">Pay Now</button>
+      <input type="hidden" name="next" value="{% url 'users:checkout' %}"/>
+    </p>
+</form>
+
+
+{% endblock content %}
