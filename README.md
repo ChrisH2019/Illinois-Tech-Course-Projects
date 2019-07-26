@@ -2,3 +2,4 @@
 - CS 350: Computer Organization & Assembly Language Programming
 - CS 425: Introduction to Database Organization
 - CS 487: Software Engineering
+- CS 497: Explore Chicago
