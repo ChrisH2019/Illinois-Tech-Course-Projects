@@ -1,6 +1,6 @@
 # Illinois-Tech-Course-Projects:
 
-1. CS331 Data Structures and Algorithms
+1. **CS331 Data Structures and Algorithms**
 
 	- Doubly Linkedlist (Python Style)
 	- Arraylist
@@ -13,12 +13,12 @@
 	- AVLTree
 
 
-2. CS350 Computer Organization & Assembly Language Programming
+2. **CS350 Computer Organization & Assembly Language Programming**
 
 	- Little computer simulator (C Style)
 
 
-3. CS351 Systems Programming
+3. **CS351 Systems Programming**
 	
 	- Hashtable (C Style)
 	- Shell
@@ -26,19 +26,19 @@
 	- DMA
 
 
-4. CS425 Introduction to Database Organization
+4. **CS425 Introduction to Database Organization**
 
 	- Online Auto Sales (Javascript Style)
 
 
-5. CS430 Introduction to Algorithms
+5. **CS430 Introduction to Algorithms**
 	
 	- Sorts (Python Style)
 	- Searches
 	- Graphs
 
 
-6. CS442 Mobile Applications Development
+6. **CS442 Mobile Applications Development**
 	
 	- Temperature Converter (Android Style)
 	- Multi Notes
@@ -47,16 +47,16 @@
 	- News Gateway
 
 
-7. CS487 Software Engineering
+7. **CS487 Software Engineering**
 	
 	- Online Grocery Store (Python Style)
 
 
-8. IPRO497 Dragon Slayer
+8. **IPRO497 Dragon Slayer**
 	
 	- Explore Chicago (HTML & CSS Styles)
 
 
-9. BUS371 Marketing
+9. **BUS371 Marketing**
 
 	- Marketing Plan for Bumble
