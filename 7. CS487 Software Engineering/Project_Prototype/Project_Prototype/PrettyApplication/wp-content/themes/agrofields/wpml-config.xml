@@ -1,0 +1,19 @@
+<wpml-config>
+    <admin-texts>
+        <key name="cmsms_options_agrofields_style_header">
+            <key name="agrofields_header_top_line_short_info" />
+        </key>
+        <key name="cmsms_options_agrofields_style_footer">
+            <key name="agrofields_footer_html" />
+            <key name="agrofields_footer_copyright" />
+        </key>
+        <key name="cmsms_options_agrofields_single_project">
+            <key name="agrofields_portfolio_project_details_title" />
+        </key>
+        <key name="cmsms_options_agrofields_single_profile">
+            <key name="agrofields_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+

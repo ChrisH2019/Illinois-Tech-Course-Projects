@@ -1,0 +1,8 @@
+; Test load memory: Next address after 7fff is 8000
+
+7FFE	origin
+EF00	at x7ffe	LEA R7, -256
+EEFF	at x7fff	LEA R7, 255
+ABCD	at x8000	LDI R5, -51
+67A0	at x8001	LDR R3, R6, -32
+AAFF	at x0002	LDI R5, 255

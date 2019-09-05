@@ -1,0 +1,13 @@
+; Test load memory: Start with location 0000
+; Load some basic values (including 0, 1, -1,
+; and maximum positive and negative values).
+
+0000	origin
+0000	at 0000
+1		at 0001
+2222	at 0002
+0000	at 0003 [don't dump this]
+4444	at 0004
+8000	max negative at 0005
+7FFF	max positive at 0006
+FFFF	-1 at 0007

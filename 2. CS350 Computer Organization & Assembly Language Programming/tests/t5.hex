@@ -1,0 +1,7 @@
+; Test load memory: Next address after ffff is 0000
+
+FFFE	origin
+1234	at fffe
+FFFF	at ffff
+1010	at 0000
+2121	at 0001
