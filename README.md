@@ -60,3 +60,9 @@
 9. **BUS371 Marketing**
 
 	- Marketing Plan for Bumble
+
+10. **CS584 Machine Learning**
+
+	- Insurance Claim Classifier
+	- Whole Milk Promotion
+	- Spectral Clustering
