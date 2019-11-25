@@ -66,3 +66,4 @@
 	- Insurance Claim Classifier
 	- Whole Milk Promotion
 	- Spectral Clustering
+	- Classifying Usages of Cars
