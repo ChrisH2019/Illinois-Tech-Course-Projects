@@ -67,3 +67,4 @@
 	- Whole Milk Promotion
 	- Spectral Clustering
 	- Classifying Usages of Cars
+	- Allstate Purchase Prediction
