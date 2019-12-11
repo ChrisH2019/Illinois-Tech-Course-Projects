@@ -68,6 +68,7 @@
 	- Spectral Clustering
 	- Classifying Usages of Cars
 	- Allstate Purchase Prediction
+	- Classifying Swiss Roll Data
 
 11. **CSP571 Data Preparation & Analysis**
 	- Apple Data Analysis & Prediction Models
