@@ -1,5 +1,0 @@
-@media only screen and (-Webkit-min-device-pixel-ratio: 1.5), 
-	only screen and (-moz-min-device-pixel-ratio: 1.5), 
-	only screen and (-o-min-device-pixel-ratio: 3/2), 
-	only screen and (min-device-pixel-ratio: 1.5) {.footer_inner .logo > img, .header_mid_inner .logo img, .header_mid_inner .logo_resp img {display: none;}
-	.footer_inner .logo > .footer_logo_retina, #header .header_mid .logo_wrap .logo .logo_retina, .header_mid_inner .logo .logo_retina, #header .header_mid .logo_wrap .logo_resp .logo_resp_retina {display: inline-block;}}

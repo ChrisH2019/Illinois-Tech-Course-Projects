@@ -1,1 +1,0 @@
-It is a simulator for LC-3 computer from the Patt and Patel book. It is a line-oriented command-line program that reads in initial memory contents from a file (in hexadecimal format) and then lets the user enter commands to execute the program’s instructions and inspect registers and memory (much like an interactive debugger such as gdb).

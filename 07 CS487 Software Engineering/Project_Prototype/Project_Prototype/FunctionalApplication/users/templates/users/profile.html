@@ -1,0 +1,33 @@
+{% extends "users/base.html" %}
+
+
+{% block content %}
+
+     <h2>Profile</h2>
+
+    <form method="post" action="{% url 'users:profile' %}">
+        {% csrf_token %}
+
+        <p>
+          <label for="id_username">Username</label>
+          {{ form.username }}
+        </p>
+
+        <p>
+          <label for="id_first_name">First name</label>
+          {{ form.first_name }}
+        </p>
+
+        <p>
+          <label for="id_last_name">Last name</label>
+          {{ form.last_name }}
+        </p>
+
+        <p>
+          <button name="submit">Update</button>
+          <input type="hidden" name="next" value="{% url 'users:profile' %}"/>
+        </p>
+
+    </form>
+
+{% endblock content %}

@@ -1,0 +1,20 @@
+{% extends "users/base.html" %}
+
+{% block content %}
+<h2>The finest natural and organic groceries!</h2>
+
+<h1> Shopping Cart </h1>
+{% for product in products %}
+<ul>
+    <b style="color:green;font-size:26px;"> {{ product.name }} </b>
+    <li> Description: {{ product.description }} </li>
+    <li> Price: {{ product.price}} </li>
+    <li> Quantity: {{ product.quantity}} </li>
+</ul>
+{% endfor %}
+
+<p>
+	<a href="{% url 'users:checkout' %}">Checkout</a>
+</p>
+
+{% endblock content %}

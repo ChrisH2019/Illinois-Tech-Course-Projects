@@ -1,0 +1,15 @@
+Project Prototype
+CS 487
+Team 1
+
+This file describes all the updates that were made to the application after the live prototype demonstration. All the code can be found in the PrettyApplicationUpdates.py file. List of updates:
+
+RestAPIs for pretty application (all returned in JSON format)
+
+Ability to retrieve all orders placed
+
+Ability to retrieve a specific order
+
+Ability to retrieve and update the status of an order
+
+Added parameters to track the status of an order
