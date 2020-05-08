@@ -1,0 +1,15 @@
+S -> NP VP
+NP -> NP PP
+NP -> Det NP
+VP -> V NP
+VP -> VP PP
+PP -> P NP
+
+Det -> the
+NP -> Joe
+NP -> ice
+NP -> drinks
+NP -> water
+V -> drinks
+VP -> drinks
+P -> with

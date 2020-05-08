@@ -79,3 +79,9 @@
 	- Classification using CNN
 	- Classification using RNN
 	- Forecasting AAPL Stock Price using GRU
+    
+13. **Natural Language Processing**
+    - Text Processing using Command Line
+    - Sentiment Analysis
+    - Native Language Identification using BERT
+    - CKY Phrase Parsing
