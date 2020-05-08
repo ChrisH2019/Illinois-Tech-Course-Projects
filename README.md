@@ -71,4 +71,11 @@
 	- Classifying Swiss Roll Data
 
 11. **CSP571 Data Preparation & Analysis**
-	- Apple Data Analysis & Prediction Models
+	- Apple Stock Data Analysis & Prediction Models
+
+12. **CS577 Deep Learning**
+	- Classification and Regression using Neural Network
+	- Classification and Regression with Optimization and Regularization
+	- Classification using CNN
+	- Classification using RNN
+	- Forecasting AAPL Stock Price using GRU
