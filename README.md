@@ -75,6 +75,7 @@
 
 12. **CS577 Deep Learning**
 	- Classification and Regression using Neural Network
+	- Implementating Neural Network
 	- Classification and Regression with Optimization and Regularization
 	- Classification using CNN
 	- Classification using RNN
@@ -82,6 +83,6 @@
     
 13. **Natural Language Processing**
     - Text Processing using Command Line
-    - Sentiment Analysis
+    - Sentiment Analysis using Naive Bayes, Lexicon-based & Logistic Regression Classifier
     - Native Language Identification using BERT
     - CKY Phrase Parsing
