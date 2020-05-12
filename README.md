@@ -81,11 +81,14 @@
 	- Classification using RNN
 	- Forecasting AAPL Stock Price using GRU
     
-13. **Natural Language Processing**
-    - Text Processing using Command Line
-    - Sentiment Analysis using Naive Bayes, Lexicon-based & Logistic Regression Classifier
-    - Native Language Identification using BERT
-    - CKY Phrase Parsing
+13. **CS585 Natural Language Processing**
+	- Text Processing using Command Line
+	- Sentiment Analysis using Naive Bayes, Lexicon-based & Logistic Regression Classifier
+	- Native Language Identification using BERT
+	- CKY Phrase Parsing
 
-14. ** Data Integration Warehousing Provenance**
+14. **CS520 Data Integration Warehousing Provenance**
 	- Cleaning Million Songs Dataset
+
+15. **CS422 Data Mining**
+	- Build Deployment-Ready Data Pipeline
