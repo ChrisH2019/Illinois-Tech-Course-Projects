@@ -86,3 +86,6 @@
     - Sentiment Analysis using Naive Bayes, Lexicon-based & Logistic Regression Classifier
     - Native Language Identification using BERT
     - CKY Phrase Parsing
+
+14. ** Data Integration Warehousing Provenance**
+	- Cleaning Million Songs Dataset

@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+    vizier:
+        image: pzhzqt/g2-p2-520:latest
+        container_name: vizier-g2-p2-520
+        build: .
+        ports:
+          - "127.0.0.1:5000:5000"
+          - "127.0.0.1:8089:8089"
