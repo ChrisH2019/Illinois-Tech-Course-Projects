@@ -92,3 +92,11 @@
 
 15. **CS422 Data Mining**
 	- Build Deployment-Ready Data Pipeline
+	
+16. **CS579 Social Network Analysis
+	- Tweet Key Word Analysis
+	- Fake News Classification
+
+17. **CS440 Programming Languages and Translators
+	- DFA Simulator
+	- NFA Simulator

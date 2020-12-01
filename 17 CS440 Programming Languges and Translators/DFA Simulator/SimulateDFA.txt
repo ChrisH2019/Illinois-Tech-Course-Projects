@@ -1,0 +1,29 @@
+Project 1: DFA Simulator
+
+Christopher W. Hong     
+Daniel Jablonski        A201418489
+Reza Shahbazi Mehrizi   
+
+let state = ref 0;;
+let x = [["1";"b";"1"];["1";"a";"1"];["0";"b";"0"];["0";"a";"1"];["1";"c";"0"];["0";" ";"0"];["1";" ";"1"]];;
+let inputString = ref ["b";"b";"a";" ";"a";"c";"a"];;
+let acceptingState = ref ["1"];;
+
+let check_transition [a;b;c] letter = if (!state) = (int_of_string a) && letter = b
+    then begin
+        state := int_of_string c;
+        Printf.printf "%s %d " letter (!state);
+    end;;
+
+let rec transition list letter = match list with 
+    | [] -> ()
+    | hd :: tl -> check_transition hd letter; transition tl letter;;
+
+let rec loop_input input = match input with
+    | [] -> if List.mem (string_of_int !state) !acceptingState then Printf.printf "\nAccepted" else  Printf.printf "\nRejected"
+    | h::t -> begin
+        transition x h;
+        loop_input t;
+    end;;
+Printf.printf "%d " !state;
+loop_input !inputString;;
