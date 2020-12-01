@@ -1,7 +1,7 @@
 # CS579: Project I - Social Media Data Analysis
 
-Christopher Hong A20400014				                                   
-Deepika Padmanabhan A20456289
+Christopher Hong 				                                   
+Deepika Padmanabhan 
 
 ## Project Description
 
